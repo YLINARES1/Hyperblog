@@ -3,17 +3,29 @@ body
     color: blueviolet;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 #container
 {
-    width: 70%;
-    padding: lem;
+    background: darkslateblue;
+    color: white;
     text-align: left;
-    border:  1px solid black;
+    border:  1px solid white;
     margin: 0 auto;
 
 }
 #container h1
 {
     font-size: 20px;
+
+}
+
+#cabecera
+{
+    background :blue;
+    box-shadow: 0px 2px 50px rgba(0, 0, 0, 0);
+    color: cornsilk;
+    margin: 0;
+    padding: 0.5em;
 }

@@ -1,12 +1,12 @@
 body
 {
-    color: blueviolet;
+    color: rgb(86, 23, 145);
     text-align: center;
     font-family: cursive;
 }
 #container
 {
-    background: darkslateblue;
+    background: rgb(216, 10, 10);
     color: white;
     text-align: left;
     border:  1px solid white;

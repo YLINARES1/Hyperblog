@@ -37,10 +37,10 @@ width: 20px;
 vertical-align: middle;
 
 }
-
-#post
+#fooder
 {
-background: white;
-padding: 1em;
-
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
 }

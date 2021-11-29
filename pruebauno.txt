@@ -5,4 +5,10 @@ cambio de prueba
 cambio de prueba -1 
 master 1
 
+<<<<<<< HEAD
 master 2
+=======
+experimento 2
+experimento 1 
+master 1
+>>>>>>> af954a8 (ex 2)
